@@ -1,6 +1,6 @@
 ---
 title: "Visualizing Starwars characters"
-author: "Add your name"
+author: "Katja Cunningham"
 output: github_document
 ---
 
